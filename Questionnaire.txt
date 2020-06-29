@@ -1,0 +1,283 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles/questionnaire.css">
+  </head>
+  <body id="main">
+    <h1 id="title">Parental Confidence Questionnaire</h1>
+    <form action="data-viewer.html">
+    <p>1. I am confident about feeding my child.</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question1">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question1">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question1">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question1">Most of the time</input>
+    </label>
+    <br>
+    <p>2. I can settle my child</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question2">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question2">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question2">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question2">Most of the time</input>
+    </label>
+    <br>
+    <p>3. I am confident about helping my child to establish a good sleep routine</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question3">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question3">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question3">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question3">Most of the time</input>
+    </label>
+    <br>
+    <p>4. I know what to do when my child cries.</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question4">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question4">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question4">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question4">Most of the time</input>
+    </label>
+    <br>
+    <p>5. I understand what my child is trying to tell me.</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question5">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question5">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question5">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question5">Most of the time</input>
+    </label>
+    <br>
+    <p>6. I can soothe/calm my child when he/she is distressed.</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question6">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question6">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question6">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question6">Most of the time</input>
+    </label>
+    <br>
+    <p>7. I am confident about playing with my child</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question7">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question7">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question7">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question7">Most of the time</input>
+    </label>
+    <br>
+    <p>8. If my child is unwell I am confident about handling this</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question8">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question8">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question8">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question8">Most of the time</input>
+    </label>
+    <br>
+    <p>9. I feel sure that me and my partner can support each other when needed</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question9">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question9">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question9">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question9">Most of the time</input>
+    </label>
+    <br>
+    <p>10. I am confident that my child is doing well</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question10">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question10">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question10">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question10">Most of the time</input>
+    </label>
+    <br>
+    <p>11. I can make decisions about the care of my child</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question11">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question11">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question11">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question11">Most of the time</input>
+    </label>
+    <br>
+    <p>12. Being a parent is very stressful for me</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question12">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question12">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question12">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question12">Most of the time</input>
+    </label>
+    <br>
+    <p>13. I feel I am doing a good job as a parent</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question13">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question13">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question13">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question13">Most of the time</input>
+    </label>
+    <br>
+    <p>14. Other people think I am doing a good job as a parent</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question14">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question14">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question14">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question14">Most of the time</input>
+    </label>
+    <br>
+    <p>15. I feel that people will be there for me when I need support</p>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question15">Hardly ever</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question15">Not very often</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question15">Some of the time</input>
+    </label>
+    <br>
+    <label>
+      <input id="confidence-rating" type="radio" name="Question15">Most of the time</input>
+    </label>
+    <br>
+    <br>
+  <button type="submit">Submit</button>
+</form>
+  </body>
+</html>
