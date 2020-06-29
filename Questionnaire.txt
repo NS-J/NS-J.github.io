@@ -5,7 +5,7 @@
   </head>
   <body id="main">
     <h1 id="title">Parental Confidence Questionnaire</h1>
-    <form action="data-viewer.html">
+    <form action="https://NS-J.github.io">
     <p>1. I am confident about feeding my child.</p>
     <br>
     <label>
